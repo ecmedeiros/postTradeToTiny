@@ -3,6 +3,7 @@
 🚀 **Envio de etiquetas do baseado em etiquetas no TINY ERP** 🛍️
 
 **Descrição:**: "Em breve a descrição do projeto..."
+
 **Tecnologias Utilizadas:** Node.js, Axios, Dotenv, PostgreSQL, Sequelize
 
 ## Pré-requisitos
