@@ -1,6 +1,6 @@
 # postTradeToTiny
 
-🚀 **Envio de etiquetas do baseado em etiquetas no TINY ERP** 🛍️
+🚀 **O projeto consiste em uma API desenvolvida em Node.js para facilitar o processo de envio de etiquetas ao TINY ERP. O TINY ERP é uma plataforma de gestão empresarial amplamente utilizada, e essa API específica simplifica a interação com o sistema ao automatizar o envio de etiquetas.** 🛍️
 
 **Descrição:**: "Em breve a descrição do projeto..."
 
